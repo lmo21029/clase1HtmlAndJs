@@ -19,7 +19,15 @@ function sumFunction() {
   // const numArray = ['1', '2', '3'];
   const countElement = document.getElementById('userContainer');
 
-  const userObject = {
+  const vaso = {
+    material: "vidrio",
+    size: "mediano",
+    color: "verde"
+  }
+
+  console.log(vaso)
+
+  const userObject = { 
     id: 'Id-1',
     name: 'luis',
     lastName: 'menendez',
