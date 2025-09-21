@@ -1,0 +1,17 @@
+.header  {
+  display: flex;
+  justify-content: center;
+ background-color: chocolate;
+}
+
+.content  {
+  display: flex;
+  justify-content: center;
+}
+
+.footer { 
+   display: flex;
+  justify-content: center;
+  background-color: chocolate;
+}
+
